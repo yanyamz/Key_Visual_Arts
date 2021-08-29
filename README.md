@@ -1,6 +1,5 @@
 # Key Visual Arts Website
-[broken]
-<a href='https://key-visual-arts.netlify.app/'>Live Site</a>
+<a href='https://keyvisualarts.netlify.app/'>Live Site</a>
 <br>
 <img src='https://i.ibb.co/Kr251xX/Screen-Shot-2021-02-18-at-1-11-24-AM.png'>
 
